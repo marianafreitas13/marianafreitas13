@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I  love to code <3
 <!--
 **marianafreitas13/marianafreitas13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
